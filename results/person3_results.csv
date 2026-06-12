@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,null_acc,n_train,n_test
+Logistic Regression (no-resample),0.749,0.5855,0.1125,0.1888,0.7215,0.7404,15472,3868
+MLP (no-resample),0.7459,0.5261,0.2112,0.3014,0.7305,0.7404,15472,3868
+Logistic Regression (50/50),0.6443,0.4006,0.747,0.5216,0.7231,0.7404,8030,3868
+MLP (50/50),0.6582,0.41,0.7211,0.5227,0.728,0.7404,8030,3868
